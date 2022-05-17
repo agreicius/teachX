@@ -18,6 +18,7 @@
     <p>
       More content.
     </p>
+    <interactive desmos="ttox1bvxku" width="60%" aspect="2:3" />
   </subsection>
 
   <subsection xml:id="subsec_another-subsection">
@@ -33,4 +34,3 @@
     </p>
   </conclusion>
 </section>
-

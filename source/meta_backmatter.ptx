@@ -7,15 +7,25 @@
 <!-- with all notation generated, and finally the index.  -->
 <backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="meta_backmatter">
   <title>Backmatter</title>
-  
+
   <solutions divisional="hint">
     <title>Selected Hints</title>
   </solutions>
-  
+
   <solutions divisional="solution">
     <title>Selected Solutions</title>
   </solutions>
-  
+
+ <appendix>
+ <title>Sections</title>
+ <list-of elements="section" divisions="section" />
+ </appendix>
+
+ <appendix>
+   <title>Examples</title>
+   <list-of elements="example" divisions="section" />
+
+ </appendix>
   <appendix>
     <title>List of Symbols</title>
     <notation-list/>
@@ -32,4 +42,3 @@
     </p>
   </colophon>
 </backmatter>
-
