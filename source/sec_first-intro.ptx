@@ -18,7 +18,19 @@
     <p>
       More content.
     </p>
-    <interactive desmos="ttox1bvxku" width="60%" aspect="2:3" />
+
+    <interactive desmos="ttox1bvxku" width="100%"/>
+
+    <sage>
+      <input>
+        a=5
+        b=a^2+3
+      </input>
+      <output>
+        b
+      </output>
+    </sage>
+
   </subsection>
 
   <subsection xml:id="subsec_another-subsection">
